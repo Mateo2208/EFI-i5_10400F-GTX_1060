@@ -44,7 +44,7 @@ The following kexts have been included in the `config.plist` to ensure smooth op
 
 #### Bootloader
 
-- **OpenCore Version**: [Your OpenCore version]
+- **OpenCore Version**: [1.0.1]
 
 #### Patcher
 
@@ -67,9 +67,9 @@ If you encounter any issues, feel free to open an issue in this repository. Prov
 
 ### Images
 
-![Estructura EFI](images/DESKTOP)
+![Estructura EFI](images/DESKTOP.png)
 
-![Resumen del Sistema](images/KEXTS)
+![Resumen del Sistema](images/KEXTS.png)
 
 ### Contributions
 
@@ -116,7 +116,7 @@ Los siguientes kexts se han incluido en el archivo `config.plist` para garantiza
 
 #### Bootloader
 
-- **Versión de OpenCore**: [Tu versión de OpenCore]
+- **Versión de OpenCore**: [1.0.1]
 
 #### Patcher
 
@@ -139,9 +139,9 @@ Si encuentras algún problema, no dudes en abrir un issue en este repositorio. P
 
 ### Imágenes
 
-![Estructura EFI](images/DESKTOP)
+![Estructura EFI](images/DESKTOP.png)
 
-![Resumen del Sistema](images/KEXTS)
+![Resumen del Sistema](images/KEXTS.png)
 
 
 ### Contribuciones
