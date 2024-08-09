@@ -44,7 +44,7 @@ The following kexts have been included in the `config.plist` to ensure smooth op
 
 #### Bootloader
 
-- **OpenCore Version**: [1.0.1]
+- **OpenCore Version**: [Your OpenCore version]
 
 #### Patcher
 
@@ -65,13 +65,16 @@ The detailed configuration can be found in the `config.plist` file included in t
 
 If you encounter any issues, feel free to open an issue in this repository. Provide as much detail as possible, including your hardware configuration and the macOS version you're using.
 
+### Images
+
+![Estructura EFI](images/DESKTOP)
+
+![Resumen del Sistema](images/KEXTS)
+
 ### Contributions
 
 Contributions are welcome! If you have improvements or additional configurations, please submit a pull request.
 
-### License
-
-This project is licensed under the MIT License.
 
 ---
 
@@ -113,7 +116,7 @@ Los siguientes kexts se han incluido en el archivo `config.plist` para garantiza
 
 #### Bootloader
 
-- **Versión de OpenCore**: [1.0.1]
+- **Versión de OpenCore**: [Tu versión de OpenCore]
 
 #### Patcher
 
@@ -134,10 +137,14 @@ La configuración detallada se encuentra en el archivo `config.plist` incluido e
 
 Si encuentras algún problema, no dudes en abrir un issue en este repositorio. Proporciona tantos detalles como sea posible, incluyendo la configuración de tu hardware y la versión de macOS que estás utilizando.
 
+### Imágenes
+
+![Estructura EFI](images/DESKTOP)
+
+![Resumen del Sistema](images/KEXTS)
+
+
 ### Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si tienes mejoras o configuraciones adicionales, por favor envía un pull request.
 
-### Licencia
-
-Este proyecto está licenciado bajo la Licencia MIT.
